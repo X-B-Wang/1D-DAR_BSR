@@ -3,4 +3,5 @@ Using one-dimensional diffusion-advection-reaction (1D-DAR) model to simulate ba
 With any trouble when dealing with this model, do not hesitate to contact me at xubinwang@pku.edu.cn
 
 --by Xubin Wang, School of Earth and Space Sciences, Peking University  
+--Cooperators: Lin Dong, Haoran Ma, Xianguo Lang, Ruimin Wang  
 --Correspondence: my supervisior Dr. L. Dong, E-mail: lin.dong \at pku.edu.cn
