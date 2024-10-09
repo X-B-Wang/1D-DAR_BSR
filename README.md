@@ -5,3 +5,5 @@ With any trouble when dealing with this model, do not hesitate to contact me at 
 --by Xubin Wang, School of Earth and Space Sciences, Peking University  
 --Cooperators: Lin Dong, Haoran Ma, Xianguo Lang, Ruimin Wang  
 --Correspondence: my supervisior Dr. L. Dong, E-mail: lin.dong \at pku.edu.cn
+
+The related work has been puhlished in Global and Planetary Change (https://doi.org/10.1016/j.gloplacha.2024.104546)
